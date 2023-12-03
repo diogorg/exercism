@@ -1,0 +1,1 @@
+Here I will update with some exercises from [exercism](https://exercism.org/)
